@@ -1,5 +1,5 @@
 ^Makefile(|.old)$
-^MYMETA\.(json|yml)$
+#^MYMETA\.(json|yml)$
 \.tar\.gz$
 ^MANIFEST.bak$
 ^\.DS_Store$
