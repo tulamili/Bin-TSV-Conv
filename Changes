@@ -1,0 +1,5 @@
+Revision history for the module "Bin::File::Dir" : 
+
+0.300   2021-05-26
+        最初に作成。5個のコマンドを収録。
+        csel csv2tsv joinn mtranspose xlsx2tsv
