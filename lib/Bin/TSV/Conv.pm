@@ -1,7 +1,7 @@
 package Bin::TSV::Conv ; 
 
-our $VERSION = "0.300" ; 
-our $DATE = "2021-05-26T23:24+0900" ; 
+our $VERSION = "0.310" ; 
+our $DATE = "2021-05-28T23:45+0900" ; 
 
 =encoding utf8
 
@@ -25,7 +25,7 @@ B<mtranspose> : I<Transpose> the table data in the TSV format as if it is the ma
 
 B<csel> : A simeple utility more than AWK. Very easy manipulations of columns of a TSV file with `-p' or `-d' options. 
 
-B<joinn> : A one-step advanced version of "Unix join" or "SQL join". May need to be refined another step! 
+B<join2> : A one-step advanced version of "Unix join" or "SQL join". May need to be refined another step! 
 
 For each command, with "--help" option will give you the detailed explanation how to use them, but it is written in mainly Japanese.
 

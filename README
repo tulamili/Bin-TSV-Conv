@@ -4,7 +4,7 @@ The included commands are as follows.
 
  csel
  csv2tsv
- joinn
+ join2
  mtranspose
  xlsx2tsv
 

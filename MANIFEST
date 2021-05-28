@@ -1,11 +1,3 @@
-Bin-TSV-Conv-0.300/META.json
-Bin-TSV-Conv-0.300/META.yml
-blib/lib/Bin/TSV/Conv.pm
-blib/script/csel
-blib/script/csv2tsv
-blib/script/joinn
-blib/script/mtranspose
-blib/script/xlsx2tsv
 Changes
 INSTALL
 lib/Bin/TSV/Conv.pm
@@ -15,10 +7,9 @@ MANIFEST			This list of files
 MANIFEST.SKIP
 MYMETA.json
 MYMETA.yml
-pm_to_blib
 README
 scripts/csel
 scripts/csv2tsv
-scripts/joinn
+scripts/join2
 scripts/mtranspose
 scripts/xlsx2tsv
